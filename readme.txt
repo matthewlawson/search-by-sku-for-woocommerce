@@ -3,7 +3,7 @@ Contributors: mattsgarage
 Donate link: http://www.mattyl.co.uk/donate/
 Tags: search, sku, stock keeping unit, woocommerce, ecommerce, e-commerce, commerce, woothemes, wordpress ecommerce
 Requires at least: 3.1.0
-Tested up to: 5.4.2
+Tested up to: 5.7.2
 Requires PHP: 5.2.4
 Stable tag: 0.8.0
 License: GPLv3
@@ -31,6 +31,8 @@ See the [Accompanying blog post](http://www.mattyl.co.uk/2012/12/11/woocommerce-
 3. No configuration required :)
 
 == Changelog ==
+= 0.8.1 =
+Update Wordpress compatibility to 5.7.2
 = 0.8.0 =
 Compatibility with Woocommerce 5.5.0
 = 0.7.1 =
