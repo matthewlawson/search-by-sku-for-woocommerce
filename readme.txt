@@ -2,7 +2,7 @@
 Contributors: mattsgarage
 Donate link: http://www.mattyl.co.uk/donate/
 Tags: search, sku, stock keeping unit, woocommerce, ecommerce, e-commerce, commerce, woothemes, wordpress ecommerce
-Requires at least: 3.0.1
+Requires at least: 3.1.0
 Tested up to: 5.4.2
 Requires PHP: 5.2.4
 Stable tag: 0.7.1
