@@ -93,6 +93,7 @@ function get_parent_post_by_sku($sku, $ignoreIds) {
         "SELECT p.ID as post_id FROM $wpdb->posts as p
         join $wpdb->postmeta pm
         on p.ID = pm.post_id
+        AND p.post_type = 'product'
         and  pm.meta_key='_sku' 
         AND pm.meta_value LIKE '%$sku%' 
         join $wpdb->postmeta visibility
